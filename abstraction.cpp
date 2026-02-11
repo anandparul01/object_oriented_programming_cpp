@@ -1,0 +1,1 @@
+//abstraction - a concept to make something easy by hiding the complicated stuff

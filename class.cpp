@@ -3,8 +3,8 @@ using namespace std;
 // class - describes the structure
 class Person{
     public:
-    string name; //data member
-    string surname; // data member
+    string name; //data member/ variable 1
+    string surname; // data member/ variable 2
 
     //methods - functions defined in the class
     void printFullName(){ 

@@ -1,0 +1,1 @@
+//inheritance - we can create derived classes that inherit properties from thei parent classes
